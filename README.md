@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fredy, a Web-Developer, Philosopher & Musician based in Bremen, Germany.
-  Since I was a child I was interested in understanding the world, solving problems and creating progressive ideas to improve, rethink
+  Since I was a child I am interested in understanding the world, solving problems and creating progressive ideas to improve, rethink
   and rebuild current systems. Especially the human conciousness and its similarities to software, e.g. the
   flexibility and possibility to program weightless concepts I find pretty fascinating.
   I made the experience that both can be (more or less) easily programmed and changed to whatever you can imagine 
