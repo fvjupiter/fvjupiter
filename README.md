@@ -18,7 +18,7 @@
   - Firestore for authentication, realtime data and storing content (early 2021)
   - Contentful as a cms (end 2021)
 - 🌱 I’m currently
-  - learning how to use git
+  - learning how to use git (and fill up my codebase)
   - create parallax effects
   - getting used to strapi as a cms, and typescript instead of javascript (for larger projects)
   - coding an application for online competitions...
