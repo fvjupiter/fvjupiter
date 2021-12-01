@@ -8,7 +8,7 @@
 - 👀 I’m interested in
   - developing progressive / efficient Web-Apps, functionalities & reusable components
   - designing simple, intuitive user-interfaces & fast loading webpages with finetuned user-experience
-- Till now I'm working with 
+- 💻 Till now I'm working with 
   - React (*since* mid 2019) (before: HTML, JS, CSS, jQuery late 2018)
   - Next.js as the react-framework of choice (early 2020) (before: create-react-app)
   - Recoil.js for state-management (mid 2021)
