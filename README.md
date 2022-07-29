@@ -4,6 +4,7 @@
   possibility to develop flexible, weightless concepts, I find pretty fascinating.
   I made the experience that both can be (more or less) easily programmed and changed to whatever you can imagine 
   and will then take their (more or less great) impact on the world ;-)
+Check out my portfolio @ https://synesthesigns.com
 - 👀 I’m interested in
   - developing progressive / efficient Web-Apps, functionalities & reusable components
   - designing simple, intuitive user-interfaces
@@ -24,7 +25,7 @@
   - use typescript instead of javascript (for larger projects)
 - My current projects are 
   - a web-app for online competitions...
-  - portfolio for a friend
+  - a skillshare-platform for a friend
 - 💞️ I’m looking to collaborate on 
   - progressive ideas in the field of web-development
   - projects / jobs to earn some money ;-)
