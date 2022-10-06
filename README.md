@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fredy, 24 y.o., Web-Developer & Musician based in Bremen, Germany.
+- 👋 Hi, I’m Fredy, 25 y.o., Web-Developer & Musician based in Bremen, Germany.
   Since I was a child I am interested in understanding the world, solving problems and creating ideas to improve, rethink
   and rebuild current systems. Especially the human conciousness and its similarities to software, e.g. the
   possibility to develop flexible, weightless concepts, I find pretty fascinating.
