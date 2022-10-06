@@ -18,6 +18,7 @@ Check out my portfolio @ https://synesthesigns.com
   - Node js for the backend (early 2021)
   - Firestore for authentication, realtime data and storing content (early 2021)
   - Strapi & Contentful as cms (mid 2021)
+  - Svelte / SvelteKit (mid 2022)
 - 🌱 I’m currently learning how to
   - use git (and fill up my codebase)
   - build npm-packages
