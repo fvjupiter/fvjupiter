@@ -8,7 +8,7 @@ Check out my portfolio @ https://synesthesigns.com
 - 👀 I’m interested in
   - developing progressive / efficient Web-Apps, functionalities & reusable components
   - designing simple, intuitive user-interfaces
-  - next to coding: philosophy, recording guitar / making digital music, writing stories / poems / songs, playing frisbee
+  - next to coding: philosophy, recording guitar / digital music, writing stories / poems / songs, playing frisbee
 - 💻 I'm working with 
   - React (*since* early 2020) (before: HTML, CSS, SASS, JS, jQuery early 2019)
   - Tailwind (mid 2021) for styling
@@ -21,9 +21,8 @@ Check out my portfolio @ https://synesthesigns.com
   - Svelte / SvelteKit (mid 2022)
 - 🌱 I’m currently learning how to
   - use git (and fill up my codebase)
-  - build npm-packages
   - create parallax effects
-  - use typescript instead of javascript (for larger projects)
+  - use typescript
 - My current projects are 
   - a web-app for online competitions...
   - a skillshare-platform for a friend
