@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fredy, 25 y.o., Web-Developer & Musician based in Bremen, Germany.
+- 👋 Hi, I’m Fredy, 26 y.o., Web-Developer & Musician based in Berlin, Germany.
   Since I was a child I am interested in understanding the world, solving problems and creating ideas to improve, rethink
   and rebuild current systems. Especially the human conciousness and its similarities to software, e.g. the
   possibility to develop flexible, weightless concepts, I find pretty fascinating.
@@ -9,7 +9,8 @@ Check out my portfolio @ https://synesthesigns.com
   - developing progressive / efficient Web-Apps, functionalities & reusable components
   - designing simple, intuitive user-interfaces
   - next to coding: philosophy, recording guitar / digital music, writing stories / poems / songs, playing frisbee
-- 💻 I'm working with 
+- 💻 I'm working with
+  - Flutter / Dart (mid 2023)
   - React (*since* early 2020) (before: HTML, CSS, SASS, JS, jQuery early 2019)
   - Tailwind (mid 2021) for styling
   - Next.js as the react-framework of choice (late 2020) (before: create-react-app)
@@ -19,16 +20,15 @@ Check out my portfolio @ https://synesthesigns.com
   - Firestore for authentication, realtime data and storing content (early 2021)
   - Strapi & Contentful as cms (mid 2021)
   - Svelte / SvelteKit (mid 2022)
+  - Git (late 2022)
 - 🌱 I’m currently learning how to
-  - use git (and fill up my codebase)
-  - create parallax effects
-  - use typescript
+  - master flutter
 - My current projects are 
-  - a web-app for online competitions...
-  - a skillshare-platform for a friend
+  - wORk ...
+  - Notes App
+  - writing music / poems
 - 💞️ I’m looking to collaborate on 
-  - progressive ideas in the field of web-development
-  - projects / jobs to earn some money ;-)
+  - progressive ideas
 - 📫 Reach me @: schoof.frederik@gmail.com
 - 🌐 The equation in you can only be solved through you
 
