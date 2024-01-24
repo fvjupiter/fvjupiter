@@ -21,8 +21,9 @@ Check out my portfolio @ https://synesthesigns.com
   - Strapi & Contentful as cms (mid 2021)
   - Svelte / SvelteKit (mid 2022)
   - Git (late 2022)
+  - Flutter (mid 2023)
 - 🌱 I’m currently learning how to
-  - master flutter
+  - found a company
 - My current projects are 
   - wORk ...
   - Notes App
