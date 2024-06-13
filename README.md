@@ -10,7 +10,6 @@ Check out my portfolio @ https://synesthesigns.com
   - designing simple, intuitive user-interfaces
   - next to coding: philosophy, recording guitar / digital music, writing stories / poems / songs, playing frisbee
 - 💻 I'm working with
-  - Flutter / Dart (mid 2023)
   - React (*since* early 2020) (before: HTML, CSS, SASS, JS, jQuery early 2019)
   - Tailwind (mid 2021) for styling
   - Next.js as the react-framework of choice (late 2020) (before: create-react-app)
@@ -21,7 +20,7 @@ Check out my portfolio @ https://synesthesigns.com
   - Strapi & Contentful as cms (mid 2021)
   - Svelte / SvelteKit (mid 2022)
   - Git (late 2022)
-  - Flutter (mid 2023)
+  - Flutter / Dart (early 2023)
 - 🌱 I’m currently learning how to
   - found a company
 - My current projects are 
