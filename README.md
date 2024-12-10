@@ -9,6 +9,7 @@ Check out my portfolio @ https://synesthesigns.com
 - 🌱 I’m currently learning how to
   - found a company
   - Docker
+  - VueJS
 - My current projects are 
   - wORk ...
   - Flutter App to mirror the user
