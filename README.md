@@ -1,9 +1,14 @@
-Hi, my name is Fredy. I'm a programmer based in Berlin, Germany.
+Hi, I’m Fredy, a developer, musician, and free spirit based in Berlin.
 
-Mainly I worked with JS-Frameworks for the frontend and cloud services for backend purposes. Currently my passion lies in the development of cross-platform networks with Flutter and Supabase.
-Besides coloured symbols and numbers in VSC I'm into music production, writing, playing frisbee, snowboarding and just living life. It feels natural to me to solve problems, find efficient solutions and recognise patterns. I see a lot of parallels between software and the human mind which makes both areas even more fascinating. Check out "Prometheus Rising" by Robert Anton Wilson if you like to dig deeper on that.
+I build cross platform apps with Flutter and Supabase, and modern web experiences with React/Next.js and Tailwind. I’m especially interested in the mechanisms that shape how people perceive and create reality, through both a technical and a metaphysical lens. To me, software and the human mind share the same language: patterns, logic, loops, identity.
 
-📫 Reach me @: schoof.frederik@gmail.com
+I’m the founder of Synced (www.synced.world), a real time app exploring new communication rituals through real time interaction and playful constraints. I’m always open to collaborations around Synced, whether you want to contribute directly, explore an idea together, or simply connect and see how we can support each other. If Synced resonates with you and you’d like to be involved in any way, feel free to reach out.
+
+For client work, I run my studio Synesthesigns (www.synesthesigns.com), where I craft tailored websites with both - soul and technical precision.
+
+Besides colored symbols in VS Code, I’m into music production, writing, frisbee, snowboarding, and generally following curiosity.
+
+📫 Reach me @: fredy@synesthesigns.com
 
 🌐 The equation in u can only b solved through u
 
